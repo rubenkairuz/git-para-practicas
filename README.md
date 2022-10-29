@@ -1,4 +1,4 @@
-# Práctica de Git
+# Práctica de Git para el Máster
 
 Esto es una práctica de Git
 
